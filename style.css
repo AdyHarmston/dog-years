@@ -15,7 +15,7 @@ section{
 max-width: 500px;
     margin: 50px auto;
     padding: 20px;
-    background-color:#EBB9DF ;
+    background-color:#EBB9DF;
     border-radius: 10px;
     box-shadow: 0 4px 10px black;
 
@@ -40,7 +40,7 @@ button{
 }
 
 button:hover{
-    background-color:#7371FC ;
+    background-color:#7371FC;
 }
 footer{
     padding: 10px;
