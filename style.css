@@ -23,7 +23,8 @@ max-width: 500px;
 h1{
         text-align: center;
 }
-label, input, button{
+
+label, input[number], button{
         display: block;
         width: 100%;
         padding: 2px;
